@@ -1,0 +1,10 @@
+{
+  "env_id": "Taxi-v3",
+  "episodes": 10000,
+  "alpha": 0.1,
+  "gamma": 0.9,
+  "epsilon": 0.1,
+  "seed": 42,
+  "max_steps": 500,
+  "qtable_path": "qtable_best.npy"
+}

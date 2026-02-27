@@ -1,0 +1,8 @@
+algo,env_id,episodes,alpha,gamma,epsilon,seed,train_avg_return,train_avg_steps,eval_avg_return,eval_avg_steps,eval_success_rate,is_best_rerun
+qlearning,Taxi-v3,10000,0.1,0.9,0.1,42,-9.6758,22.6301,7.98,13.02,1.0,False
+qlearning,Taxi-v3,10000,0.01,0.9,0.1,42,-93.7788,82.1382,-104.435,113.99,0.455,False
+qlearning,Taxi-v3,10000,0.001,0.9,0.1,42,-247.0356,180.1113,-307.82,200.0,0.0,False
+qlearning,Taxi-v3,10000,0.2,0.9,0.1,42,-4.4018,19.0541,7.98,13.02,1.0,False
+qlearning,Taxi-v3,10000,0.1,0.9,0.2,42,-18.983,24.9689,7.98,13.02,1.0,False
+qlearning,Taxi-v3,10000,0.1,0.9,0.3,42,-31.307,27.9617,7.98,13.02,1.0,False
+qlearning,Taxi-v3,10000,0.1,0.9,0.1,42,-9.6758,22.6301,7.98,13.02,1.0,True
